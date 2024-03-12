@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sibigesh m
+- 👋 Hi, I’m @Sibigesh m
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning excel , power pi,pyhton
+- 🌱 I’m currently learning excel , power pi,python
 - 💞️ I’m looking to collaborate on data analaysis projects
 - 📫 How to reach me ...sibilogesh4@gmail.com
 - 😄 Pronouns: ...
